@@ -8,7 +8,7 @@ function IndexPage() {
     <Layout>
       <SEO
         keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
-        title="Home"
+        title="Udlejning af hoppeslotte i hele Danmark"
       />
 
       <div className="text-center p-4 my-8 mx-auto max-w-2xl bg-blue-800 rounded-lg">

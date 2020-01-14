@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Lej hoppeslotte, hoppeborge og hoppepuder`,
-    description: `Levering i hele Danmark`,
+    description: `Over 34 års erfaring med udlejning af sjov til festen. Vi har hoppeborge i alle størrelser til både store og små arrangementer.`,
     author: `@mathiashansen`
   },
   plugins: [
