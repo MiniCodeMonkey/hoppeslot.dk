@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Tailwind`,
-    description: `Gatsby starter styled with Tailwind`,
-    author: `@taylorbryant`
+    title: `Lej hoppeslotte, hoppeborge og hoppepuder`,
+    description: `Levering i hele Danmark`,
+    author: `@mathiashansen`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
