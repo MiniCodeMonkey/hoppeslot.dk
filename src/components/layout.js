@@ -16,7 +16,7 @@ function Layout({ children }) {
       <div className="bg-red-600">
         <div className="container mx-auto">
           <h2 className="text-3xl font-bold text-white">Hvad koster det at leje en hoppeborg?</h2>
-          <p className="text-lg text-white mt-2">Prisen afhænger af hvorhenne i landet dit arrangement finder sted, størrelsen på hoppeborgen samt om du ønsker levering, opsætning og opsyn. Kontakt os for et uforpligtende tilbud på <strong>40 85 65 10</strong>.</p>
+          <p className="text-lg text-white mt-2">Prisen afhænger af hvor henne i landet dit arrangement finder sted, størrelsen på hoppeborgen samt om du ønsker levering, opsætning og opsyn. Kontakt os for et uforpligtende tilbud på <strong>40 85 65 10</strong>.</p>
 
           <h2 className="text-3xl font-bold text-white mt-8">Hvor meget plads kræver en hoppeborg?</h2>
           <p className="text-lg text-white mt-2">Vores mindste hoppeborg skal bruge 4,5m x 4,5m og 3 meter i højden. Større hoppeborge kan kræve op til 8m x 8m plads og aktiviteter såsom <a href="https://www.danlej.dk/aktiviteter/fire-slide">cirkus-sliden</a> kræver 7,3m plads i højden.</p>
